@@ -1,0 +1,10 @@
+{
+  "name": "@adsvideo/provider-http",
+  "version": "1.0.0",
+  "author": "kostphoenix",
+  "main": "src/index.js",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
